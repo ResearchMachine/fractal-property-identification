@@ -1,11 +1,9 @@
-# (2018) Identification of Fractal Properties of Oil Reservoir. Hyperparameters of Hydrodynamic Model Optimization Problem
+# (2018) Identification of Fractal Properties of Oil Reservoir. Hyperparameters of Hydrodynamic Model Optimization Problem. Dimension Reduction (Upscaling)
 **Project Type:** Work project, Mathematical Modeling, Applied Research   
-**Programming Language:** Maple 18, Python 3  
-**Project Сode:** [АД-КПС.pdf](https://github.com/ResearchMachine/work-project-fractal-property-identification/blob/main/%D0%90%D0%94-%D0%9A%D0%9F%D0%A1.pdf)  
-**Project Full Description**: [Article in Russian](https://github.com/ResearchMachine/work-project-fractal-property-identification/blob/main/2.pdf), [Article En Machine Translate](https://github.com/ResearchMachine/work-project-fractal-property-identification/blob/main/2%20en.pdf)  
+**Programming Language:** [Maple 18](https://en.wikipedia.org/wiki/Maple), Python 3  
+**Project Сode:** [Main Script.pdf](https://github.com/ResearchMachine/work-project-fractal-property-identification/blob/main/%D0%90%D0%94-%D0%9A%D0%9F%D0%A1.pdf)  
+**Project Full Description**: [En Machine Translate](https://github.com/ResearchMachine/work-project-fractal-property-identification/blob/main/2%20en.pdf), [in Russian](https://github.com/ResearchMachine/work-project-fractal-property-identification/blob/main/2.pdf)  
 **Company:** [math. model. lab. GAMMETT](http://gammett.ugatu.su/)
-
-
 
 
 ### I. Motivation
@@ -13,20 +11,21 @@ Coarsening of computational spatial grids is one of the main ways to reduce the 
 
 
 ### II. Problem
-The main purpose of this work is ... .
-Project tasks:
-* @TASK;  
-* @TASK;  
-* @TASK.
+The main purpose of this work is attempt to application modern type of hydrodynamic models (accounting to fractality) to industrial tasks.
+Project tasks:  
+* hyperparameters (fractality) of hydrodynamic model optimization problem;  
+* dimension reduction (Upscaling).
 
 ### III. Key Results 
-* @KEYRESULT;  
-* @KEYRESULT;  
-* @KEYRESULT.
+* The method of empirical identification filtration model parameters in a fractal medium based on the minimum of the proximity functional to a solution with a piecewise constant function of permeability bridges (field data);  
+* The task of identifying parameters using the proposed technique is equivalent to a simpler problem of identifying parameters based on the best approximation of a piecewise constant function by a power function on the entire interval;  
+* A modified procedure for averaging (upscaling) FES is proposed, which takes into account their power (fractal) distribution law;  
+* When testing the proposed procedure on the field data of one of the wells in Western Siberia, it was found that the modification of upscaling led to an improvement in the correspondence of the flow value to the actual value by 20%. This indicates a great potential for the application of this technique in the design and monitoring of field development.
 
-### III. Content
+### IV. Content
+**The project code contains 1 scripts**:
+1. [Main Script.pdf](https://github.com/ResearchMachine/work-project-fractal-property-identification/blob/main/%D0%90%D0%94-%D0%9A%D0%9F%D0%A1.pdf) (hyperparameters of hydrodynamic model optimization problem).   
 
 
-**The project code contains @N scripts**:
-1. (@LINK) @SCRIPT;  
-2. (@LINK) @SCRIPT.
+### License:  
+[Russian Government Registration.](https://www.elibrary.ru/download/elibrary_41534132_20227944.PDF)
